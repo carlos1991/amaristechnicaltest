@@ -1,0 +1,17 @@
+#------------------------------
+# INFO
+#------------------------------
+openapi.info:
+  service_name: @project.name@
+  service_description: @project.description@
+  version: @project.version@
+  contact:
+    name: "Carlos Luis Muñoz Acedo"
+    email: carlosma_1991@hotmail.com
+
+#------------------------------
+# LOGGING
+#------------------------------
+logging:
+  level:
+    com.amaris: DEBUG
