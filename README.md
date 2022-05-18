@@ -21,4 +21,4 @@ Additionally, the base project uses lombok, so you have to install it. You can u
 `docker run -p 8080:8080 -t technical-test`
 
 ## Swagger
-Once the application has started, swagger is available at: http://localhost:8080/swagger-ui/#/  
+Once the application has started, swagger is available at: http://localhost:8080/swagger-ui.html
